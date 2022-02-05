@@ -1,0 +1,6 @@
+Years: 3 dore:0.1 dweight:0.1
+Total cubes: 216
+Total volume: 216.0
+Orecubes: 72
+ Orecubes volume: 72.0
+Chocoinit in 17 ms or 17 ms Dependencies built in 17 ms or 17 ms 30 20:85 0:-21474836(54512) 21474836(109025)Task is built in 22 ms or 22 ms 

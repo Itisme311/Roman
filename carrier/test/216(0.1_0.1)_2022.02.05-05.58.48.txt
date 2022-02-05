@@ -1,0 +1,2629 @@
+Years: 3 dore:0.1 dweight:0.1
+Total cubes: 216
+Total volume: 216.0
+Orecubes: 72
+ Orecubes volume: 72.0
+Chocoinit in 16 ms or 16 ms Dependencies built in 16 ms or 16 ms 30 20:85 0:-21474836(54512) 21474836(109025)Task is built in 23 ms or 23 ms Solution #1 Time:30 ms or 30 ms Total cost:95.981
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:58
+descube ore:22
+dw/do:2.6363636363636362
+Year:3
+descube weight:77
+descube ore:20
+dw/do:3.85
+
+--------------
+Solution #2 Time:93 ms or 93 ms Total cost:95.988
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #3 Time:189 ms or 189 ms Total cost:96.032
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #4 Time:297 ms or 297 ms Total cost:96.075
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #5 Time:440 ms or 440 ms Total cost:96.136
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #6 Time:627 ms or 627 ms Total cost:96.198
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #7 Time:783 ms or 783 ms Total cost:96.216
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #8 Time:940 ms or 940 ms Total cost:96.27
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #9 Time:1126 ms or 1 sec 126 ms Total cost:96.313
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #10 Time:1291 ms or 1 sec 291 ms Total cost:96.331
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #11 Time:1474 ms or 1 sec 474 ms Total cost:96.435
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #12 Time:1647 ms or 1 sec 647 ms Total cost:96.455
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #13 Time:1816 ms or 1 sec 816 ms Total cost:96.473
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #14 Time:2012 ms or 2 sec 12 ms Total cost:96.516
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:79
+descube ore:20
+dw/do:3.95
+
+--------------
+Solution #15 Time:2232 ms or 2 sec 232 ms Total cost:96.522
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #16 Time:2439 ms or 2 sec 439 ms Total cost:96.529
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #17 Time:2645 ms or 2 sec 645 ms Total cost:96.583
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #18 Time:2859 ms or 2 sec 859 ms Total cost:96.591
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #19 Time:3094 ms or 3 sec 94 ms Total cost:96.645
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #20 Time:3335 ms or 3 sec 335 ms Total cost:96.663
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #21 Time:3596 ms or 3 sec 596 ms Total cost:96.706
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #22 Time:3886 ms or 3 sec 886 ms Total cost:96.707
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #23 Time:4157 ms or 4 sec 157 ms Total cost:96.725
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #24 Time:4440 ms or 4 sec 440 ms Total cost:96.768
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #25 Time:4764 ms or 4 sec 764 ms Total cost:96.786
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #26 Time:5071 ms or 5 sec 71 ms Total cost:96.848
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:81
+descube ore:20
+dw/do:4.05
+
+--------------
+Solution #27 Time:5507 ms or 5 sec 507 ms Total cost:96.907
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:52
+descube ore:22
+dw/do:2.3636363636363638
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #28 Time:5848 ms or 5 sec 848 ms Total cost:96.926
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:52
+descube ore:22
+dw/do:2.3636363636363638
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #29 Time:6202 ms or 6 sec 202 ms Total cost:96.969
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:52
+descube ore:22
+dw/do:2.3636363636363638
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #30 Time:6638 ms or 6 sec 638 ms Total cost:97.018
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:52
+descube ore:22
+dw/do:2.3636363636363638
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #31 Time:7024 ms or 7 sec 24 ms Total cost:97.037
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:52
+descube ore:22
+dw/do:2.3636363636363638
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #32 Time:7436 ms or 7 sec 436 ms Total cost:97.141
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:52
+descube ore:22
+dw/do:2.3636363636363638
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #33 Time:8848 ms or 8 sec 848 ms Total cost:97.142
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:52
+descube ore:22
+dw/do:2.3636363636363638
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #34 Time:9466 ms or 9 sec 466 ms Total cost:97.179
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #35 Time:9877 ms or 9 sec 877 ms Total cost:97.197
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #36 Time:10325 ms or 10 sec 325 ms Total cost:97.259
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #37 Time:10777 ms or 10 sec 777 ms Total cost:97.278
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #38 Time:11331 ms or 11 sec 331 ms Total cost:97.321
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #39 Time:11870 ms or 11 sec 870 ms Total cost:97.382
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #40 Time:12517 ms or 12 sec 517 ms Total cost:97.397
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #41 Time:13077 ms or 13 sec 77 ms Total cost:97.454
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #42 Time:13603 ms or 13 sec 603 ms Total cost:97.52
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #43 Time:14973 ms or 14 sec 973 ms Total cost:97.521
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #44 Time:15615 ms or 15 sec 615 ms Total cost:97.555
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #45 Time:17368 ms or 17 sec 368 ms Total cost:97.563
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #46 Time:18384 ms or 18 sec 384 ms Total cost:97.659
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #47 Time:19402 ms or 19 sec 402 ms Total cost:97.693
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #48 Time:20026 ms or 20 sec 26 ms Total cost:97.765
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #49 Time:20698 ms or 20 sec 698 ms Total cost:97.784
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #50 Time:21358 ms or 21 sec 358 ms Total cost:97.789
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #51 Time:120280 ms or 2 min 280 ms Total cost:97.805
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #52 Time:129337 ms or 2 min 9 sec 337 ms Total cost:97.818
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #53 Time:130166 ms or 2 min 10 sec 166 ms Total cost:97.848
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #54 Time:130872 ms or 2 min 10 sec 872 ms Total cost:97.899
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #55 Time:131570 ms or 2 min 11 sec 570 ms Total cost:97.917
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #56 Time:132957 ms or 2 min 12 sec 957 ms Total cost:97.979
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #57 Time:211035 ms or 3 min 31 sec 35 ms Total cost:98.047
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #58 Time:211804 ms or 3 min 31 sec 804 ms Total cost:98.096
+--------------
+Year:1
+descube weight:81
+descube ore:30
+dw/do:2.7
+Year:2
+descube weight:50
+descube ore:22
+dw/do:2.272727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #59 Time:304229 ms or 5 min 4 sec 229 ms Total cost:98.106
+--------------
+Year:1
+descube weight:76
+descube ore:30
+dw/do:2.533333333333333
+Year:2
+descube weight:55
+descube ore:22
+dw/do:2.5
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #60 Time:304946 ms or 5 min 4 sec 946 ms Total cost:98.172
+--------------
+Year:1
+descube weight:76
+descube ore:30
+dw/do:2.533333333333333
+Year:2
+descube weight:55
+descube ore:22
+dw/do:2.5
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #61 Time:306548 ms or 5 min 6 sec 548 ms Total cost:98.173
+--------------
+Year:1
+descube weight:76
+descube ore:30
+dw/do:2.533333333333333
+Year:2
+descube weight:55
+descube ore:22
+dw/do:2.5
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #62 Time:307329 ms or 5 min 7 sec 329 ms Total cost:98.207
+--------------
+Year:1
+descube weight:76
+descube ore:30
+dw/do:2.533333333333333
+Year:2
+descube weight:55
+descube ore:22
+dw/do:2.5
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #63 Time:309272 ms or 5 min 9 sec 272 ms Total cost:98.215
+--------------
+Year:1
+descube weight:76
+descube ore:30
+dw/do:2.533333333333333
+Year:2
+descube weight:55
+descube ore:22
+dw/do:2.5
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #64 Time:310460 ms or 5 min 10 sec 460 ms Total cost:98.311
+--------------
+Year:1
+descube weight:76
+descube ore:30
+dw/do:2.533333333333333
+Year:2
+descube weight:55
+descube ore:22
+dw/do:2.5
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #65 Time:314648 ms or 5 min 14 sec 648 ms Total cost:98.34
+--------------
+Year:1
+descube weight:75
+descube ore:30
+dw/do:2.5
+Year:2
+descube weight:56
+descube ore:22
+dw/do:2.5454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #66 Time:326404 ms or 5 min 26 sec 404 ms Total cost:98.392
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #67 Time:327264 ms or 5 min 27 sec 264 ms Total cost:98.411
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #68 Time:328067 ms or 5 min 28 sec 67 ms Total cost:98.454
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #69 Time:328892 ms or 5 min 28 sec 892 ms Total cost:98.515
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #70 Time:330668 ms or 5 min 30 sec 668 ms Total cost:98.53
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #71 Time:331524 ms or 5 min 31 sec 524 ms Total cost:98.587
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #72 Time:332393 ms or 5 min 32 sec 393 ms Total cost:98.653
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #73 Time:338087 ms or 5 min 38 sec 87 ms Total cost:98.654
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #74 Time:339029 ms or 5 min 39 sec 29 ms Total cost:98.688
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #75 Time:346887 ms or 5 min 46 sec 887 ms Total cost:98.696
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #76 Time:350230 ms or 5 min 50 sec 230 ms Total cost:98.792
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #77 Time:354769 ms or 5 min 54 sec 769 ms Total cost:98.826
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #78 Time:355841 ms or 5 min 55 sec 841 ms Total cost:98.898
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #79 Time:356817 ms or 5 min 56 sec 817 ms Total cost:98.917
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #80 Time:358335 ms or 5 min 58 sec 335 ms Total cost:98.922
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #81 Time:582213 ms or 9 min 42 sec 213 ms Total cost:98.938
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #82 Time:606278 ms or 10 min 6 sec 278 ms Total cost:98.951
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #83 Time:608021 ms or 10 min 8 sec 21 ms Total cost:98.981
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #84 Time:609086 ms or 10 min 9 sec 86 ms Total cost:99.032
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #85 Time:610105 ms or 10 min 10 sec 105 ms Total cost:99.05
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #86 Time:612264 ms or 10 min 12 sec 264 ms Total cost:99.112
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #87 Time:786181 ms or 13 min 6 sec 181 ms Total cost:99.18
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #88 Time:787271 ms or 13 min 7 sec 271 ms Total cost:99.229
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #89 Time:849079 ms or 14 min 9 sec 79 ms Total cost:99.268
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #90 Time:850210 ms or 14 min 10 sec 210 ms Total cost:99.274
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #91 Time:855476 ms or 14 min 15 sec 476 ms Total cost:99.302
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #92 Time:856646 ms or 14 min 16 sec 646 ms Total cost:99.308
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #93 Time:857948 ms or 14 min 17 sec 948 ms Total cost:99.321
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #94 Time:859138 ms or 14 min 19 sec 138 ms Total cost:99.327
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #95 Time:860302 ms or 14 min 20 sec 302 ms Total cost:99.336
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #96 Time:861434 ms or 14 min 21 sec 434 ms Total cost:99.337
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #97 Time:867267 ms or 14 min 27 sec 267 ms Total cost:99.393
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #98 Time:3412365 ms or 56 min 52 sec 365 ms Total cost:99.402
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #99 Time:3413815 ms or 56 min 53 sec 815 ms Total cost:99.459
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #100 Time:3415203 ms or 56 min 55 sec 203 ms Total cost:99.485
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #101 Time:3416397 ms or 56 min 56 sec 397 ms Total cost:99.486
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #102 Time:3422237 ms or 57 min 2 sec 237 ms Total cost:99.542
+--------------
+Year:1
+descube weight:77
+descube ore:30
+dw/do:2.566666666666667
+Year:2
+descube weight:54
+descube ore:22
+dw/do:2.4545454545454546
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #103 Time:3627328 ms or 1 hours 27 sec 328 ms Total cost:99.608
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #104 Time:3633432 ms or 1 hours 33 sec 432 ms Total cost:99.609
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #105 Time:3634637 ms or 1 hours 34 sec 637 ms Total cost:99.643
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #106 Time:3643016 ms or 1 hours 43 sec 16 ms Total cost:99.651
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #107 Time:3646748 ms or 1 hours 46 sec 748 ms Total cost:99.747
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #108 Time:3651622 ms or 1 hours 51 sec 622 ms Total cost:99.781
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #109 Time:3652991 ms or 1 hours 52 sec 991 ms Total cost:99.853
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #110 Time:3654266 ms or 1 hours 54 sec 266 ms Total cost:99.872
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #111 Time:3656053 ms or 1 hours 56 sec 53 ms Total cost:99.877
+--------------
+Year:1
+descube weight:70
+descube ore:30
+dw/do:2.3333333333333335
+Year:2
+descube weight:61
+descube ore:22
+dw/do:2.772727272727273
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #112 Time:3700029 ms or 1 hours 1 min 40 sec 29 ms Total cost:99.908
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:71
+descube ore:22
+dw/do:3.227272727272727
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #113 Time:3706454 ms or 1 hours 1 min 46 sec 454 ms Total cost:99.909
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:71
+descube ore:22
+dw/do:3.227272727272727
+Year:3
+descube weight:83
+descube ore:20
+dw/do:4.15
+
+--------------
+Solution #114 Time:3710177 ms or 1 hours 1 min 50 sec 177 ms Total cost:99.946
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #115 Time:3711492 ms or 1 hours 1 min 51 sec 492 ms Total cost:99.964
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #116 Time:3712953 ms or 1 hours 1 min 52 sec 953 ms Total cost:100.026
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #117 Time:3714500 ms or 1 hours 1 min 54 sec 500 ms Total cost:100.045
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #118 Time:3716114 ms or 1 hours 1 min 56 sec 114 ms Total cost:100.088
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #119 Time:3717582 ms or 1 hours 1 min 57 sec 582 ms Total cost:100.149
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #120 Time:3719955 ms or 1 hours 1 min 59 sec 955 ms Total cost:100.164
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #121 Time:3721656 ms or 1 hours 2 min 1 sec 656 ms Total cost:100.221
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #122 Time:3723269 ms or 1 hours 2 min 3 sec 269 ms Total cost:100.287
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #123 Time:3729642 ms or 1 hours 2 min 9 sec 642 ms Total cost:100.288
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #124 Time:3731204 ms or 1 hours 2 min 11 sec 204 ms Total cost:100.322
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #125 Time:3739742 ms or 1 hours 2 min 19 sec 742 ms Total cost:100.33
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #126 Time:3743676 ms or 1 hours 2 min 23 sec 676 ms Total cost:100.426
+--------------
+Year:1
+descube weight:62
+descube ore:30
+dw/do:2.066666666666667
+Year:2
+descube weight:69
+descube ore:22
+dw/do:3.1363636363636362
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #127 Time:3788424 ms or 1 hours 3 min 8 sec 424 ms Total cost:100.474
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #128 Time:3789924 ms or 1 hours 3 min 9 sec 924 ms Total cost:100.54
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #129 Time:3806617 ms or 1 hours 3 min 26 sec 617 ms Total cost:100.541
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #130 Time:3808120 ms or 1 hours 3 min 28 sec 120 ms Total cost:100.575
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #131 Time:3835529 ms or 1 hours 3 min 55 sec 529 ms Total cost:100.583
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #132 Time:3845241 ms or 1 hours 4 min 5 sec 241 ms Total cost:100.679
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #133 Time:3862079 ms or 1 hours 4 min 22 sec 79 ms Total cost:100.713
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #134 Time:3863821 ms or 1 hours 4 min 23 sec 821 ms Total cost:100.785
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #135 Time:3865673 ms or 1 hours 4 min 25 sec 673 ms Total cost:100.804
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #136 Time:3869123 ms or 1 hours 4 min 29 sec 123 ms Total cost:100.809
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #137 Time:4224810 ms or 1 hours 10 min 24 sec 810 ms Total cost:100.825
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #138 Time:4272243 ms or 1 hours 11 min 12 sec 243 ms Total cost:100.838
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #139 Time:4277191 ms or 1 hours 11 min 17 sec 191 ms Total cost:100.868
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #140 Time:4279076 ms or 1 hours 11 min 19 sec 76 ms Total cost:100.919
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #141 Time:4280715 ms or 1 hours 11 min 20 sec 715 ms Total cost:100.937
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #142 Time:4283289 ms or 1 hours 11 min 23 sec 289 ms Total cost:100.999
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #143 Time:4504933 ms or 1 hours 15 min 4 sec 933 ms Total cost:101.067
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #144 Time:4506672 ms or 1 hours 15 min 6 sec 672 ms Total cost:101.116
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #145 Time:4684801 ms or 1 hours 18 min 4 sec 801 ms Total cost:101.155
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #146 Time:4686515 ms or 1 hours 18 min 6 sec 515 ms Total cost:101.161
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #147 Time:4705336 ms or 1 hours 18 min 25 sec 336 ms Total cost:101.189
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #148 Time:4707193 ms or 1 hours 18 min 27 sec 193 ms Total cost:101.195
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #149 Time:4709239 ms or 1 hours 18 min 29 sec 239 ms Total cost:101.208
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #150 Time:4711209 ms or 1 hours 18 min 31 sec 209 ms Total cost:101.214
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #151 Time:4713285 ms or 1 hours 18 min 33 sec 285 ms Total cost:101.223
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #152 Time:4715268 ms or 1 hours 18 min 35 sec 268 ms Total cost:101.224
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #153 Time:4721087 ms or 1 hours 18 min 41 sec 87 ms Total cost:101.28
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #154 Time:7909588 ms or 2 hours 11 min 49 sec 588 ms Total cost:101.289
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #155 Time:7912595 ms or 2 hours 11 min 52 sec 595 ms Total cost:101.346
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #156 Time:7915080 ms or 2 hours 11 min 55 sec 80 ms Total cost:101.372
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #157 Time:7916878 ms or 2 hours 11 min 56 sec 878 ms Total cost:101.373
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #158 Time:7922595 ms or 2 hours 12 min 2 sec 595 ms Total cost:101.429
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #159 Time:8985639 ms or 2 hours 29 min 45 sec 639 ms Total cost:101.434
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #160 Time:10550997 ms or 2 hours 55 min 50 sec 997 ms Total cost:101.448
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #161 Time:10552827 ms or 2 hours 55 min 52 sec 827 ms Total cost:101.449
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #162 Time:10560704 ms or 2 hours 56 min 704 ms Total cost:101.497
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #163 Time:39355098 ms or 10 hours 55 min 55 sec 98 ms Total cost:101.536
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
+Solution #164 Time:39358926 ms or 10 hours 55 min 58 sec 926 ms Total cost:101.542
+--------------
+Year:1
+descube weight:64
+descube ore:30
+dw/do:2.1333333333333333
+Year:2
+descube weight:67
+descube ore:22
+dw/do:3.0454545454545454
+Year:3
+descube weight:85
+descube ore:20
+dw/do:4.25
+
+--------------
